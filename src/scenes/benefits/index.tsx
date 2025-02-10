@@ -4,9 +4,9 @@ import { HomeModernIcon, UserGroupIcon, AcademicCapIcon, SparklesIcon } from "@h
 import { motion } from "framer-motion";
 import Benefit from "./Benefit";
 import ActionButton from "@/shared/ActionButton";
-import Sparkles from "../../assets/Sparkles.png"
-import AbstractWaves from "../../assets/AbstractWaves.png"
-import BenefitsPageGraphic from "../../assets/BenefitsPageGraphic.png"
+import Sparkles from "@/assets/Sparkles.png"
+import AbstractWaves from "@/assets/AbstractWaves.png"
+import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png"
 
 const benefits: Array<BenefitType> = [
     {

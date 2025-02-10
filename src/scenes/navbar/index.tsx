@@ -1,3 +1,4 @@
+import React from "react";
 import Logo from "@/assets/Logo.png";
 import Link from "./Link";
 import { SelectedPage } from "@/shared/types";

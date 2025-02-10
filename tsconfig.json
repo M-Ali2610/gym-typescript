@@ -6,7 +6,9 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
+    
+    /* Alias */
     "baseUrl": "./",
     "paths": {
       "@/*": ["src/*"]

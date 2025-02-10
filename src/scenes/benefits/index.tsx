@@ -1,3 +1,4 @@
+import React from "react";
 import HText from "@/shared/HText";
 import { BenefitType, SelectedPage } from "@/shared/types"
 import { HomeModernIcon, UserGroupIcon, AcademicCapIcon, SparklesIcon } from "@heroicons/react/24/solid"

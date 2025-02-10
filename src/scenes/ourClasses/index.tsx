@@ -1,3 +1,4 @@
+import React from "react";
 import { SelectedPage, ClassType } from "@/shared/types";
 import image1 from "@/assets/image1.png";
 import image2 from "../../assets/image2.png"
